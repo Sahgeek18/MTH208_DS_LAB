@@ -1,3 +1,4 @@
+# setting the path to my directory
 setwd("C:/MHT208_SAHIL/Worksheet-6")
 
 
